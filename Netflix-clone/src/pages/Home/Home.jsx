@@ -13,7 +13,7 @@ export default function Home(){
          <div className='hero'>
           <img src="/Cover_title.jpg" className='banner-img' alt=""/>
           <div className='hero-caption'>
-            <img src="/Cover_title.webp" className='caption-img'/>
+            <img src="/Banner_logo.png" className='caption-img'/>
             <p>As old players return and new alliances form, the deadliest game yet is about to begin.</p>
 
             <div className="hero-btns">
